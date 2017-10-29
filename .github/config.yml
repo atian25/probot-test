@@ -1,7 +1,7 @@
 # Configuration for request-info - https://github.com/behaviorbot/request-info
 
 # *Required* Comment to reply with
-requestInfoReplyComment: >
+requestInfoReplyComment: |
   Thank you for reporting an issue.
 
   1. It's RECOMMENDED to submit PR for typo or tiny bug fix.
